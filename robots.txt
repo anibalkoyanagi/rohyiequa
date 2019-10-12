@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eereegeeg.thatdipguy.com/sitemap.xml
